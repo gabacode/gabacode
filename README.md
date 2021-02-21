@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="left">Hello!</h1>
 
-<!--
-**gabacode/gabacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">My name is Gabriele Scalici and I love technology for the ways it can improve lives on this planet, and beyond.
+<br/><br />
+I been attracted to web development since my childhood. I used to play making websites at the age of 8 with the mighty Netscape Composer.
+<br/><br />
+Some time has passed since then, I have since surfed the web, and got acquaintanced with HTML and PHP as I developed my firsts PHP-Nuke portals, then Xoops, then Joomla etc...
+<br/><br />
+As WordPress started booming, I developed interests for frameworks such as Laravel, React, and Next-Js. The interaction between all these languages helps me creating performing and flexible web platforms, that are easy to deploy, and easy to use for casual users.
+<br/><br />
+I love cycling, meditating, creating art, and making new thingys with Arduino, 3D printers and laser cutters.
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+<p align="center">
+<a href="https://github.com/gabacode">
+  <img height="200" align="center" src="https://github-readme-stats-six-rho.vercel.app/api?username=gabacode&show_icons=true&hide_border=false&count_private=true" />
+</a>
+<a href="https://github.com/gabacode">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabacode&hide=html,css" alt="Gabriele Scalici's GitHub Stats" />
+</a>
+  </p>
