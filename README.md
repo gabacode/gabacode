@@ -4,9 +4,9 @@
 <br/><br />
 I been attracted to web development since my childhood. I used to play making websites at the age of 8 with the mighty Netscape Composer.
 <br/><br />
-Some time has passed since then, I have since surfed the web, and got acquaintanced with HTML and PHP as I developed my firsts PHP-Nuke portals, then Xoops, then Joomla etc...
+Some time has passed since then, I have since surfed the web, and got acquaintanced with HTML and PHP, as I developed my firsts PHP-Nuke portals, then Xoops, then Joomla etc...
 <br/><br />
-As WordPress started booming, I developed interests for frameworks such as Laravel, React, and Next-Js. The interaction between all these platforms helps me creating performing and flexible web platforms, that are easy to deploy, and easy to use for casual users.
+As WordPress continued booming, I developed interests for frameworks such as Laravel, React, and Next-Js. The interaction between all these platforms helps me creating performing and flexible web platforms, that are easy to deploy, and easy to use for casual users.
 <br/><br />
 I love cycling, meditating, creating art, and making new thingys with Arduino, 3D printers and laser cutters.
 </h3>
