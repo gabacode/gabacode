@@ -1,6 +1,6 @@
 <h1 align="left">Hello!</h1>
 
-<h3 align="left">My name is Gabriele Scalici and I love technology for the ways it can improve lives on this planet, and beyond.
+<h3 align="left">My name is Gabriele Scalici, and I love technology for the ways it can improve lives on this planet, and beyond.
 <br/><br />
 I been attracted to web development since my childhood. I used to play making websites at the age of 8 with the mighty Netscape Composer.
 <br/><br />
