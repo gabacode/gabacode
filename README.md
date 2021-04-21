@@ -1,6 +1,6 @@
 <h1 align="left">Hello!</h1>
 
-<h3 align="left">My name is Gabriele Scalici, and I love technology for the ways it can improve lives on this planet, and beyond.
+<h4 align="left">My name is Gabriele Scalici, and I love technology for the ways it can improve lives on this planet, and beyond.
 <br/><br />
 I been attracted to web development since my childhood. I used to play making websites at the age of 8 with the mighty Netscape Composer.
 <br/><br />
@@ -9,8 +9,9 @@ Some time has passed since then, I have since surfed the web, and got acquaintan
 As WordPress continued booming, I developed interests for frameworks such as Laravel, React, and Next-Js. The interaction between all these platforms helps me creating performing and flexible web platforms, that are easy to deploy, and easy to use for every-day users.
 <br/><br />
 I love cycling, meditating, creating art, and making new thingys with Arduino, 3D printers and laser cutters.
-</h3>
-
+<br/><br>
+You can contact me via email at <a href="mailto:gaba@totel.it">gaba@totel.it</a>
+ </h4>
 <hr />
 <p align="center">
 <a href="https://github.com/gabacode">
