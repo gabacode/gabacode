@@ -11,8 +11,8 @@
  You can contact me via email at <a href="mailto:gaba@totel.it">gaba@totel.it</a>
 </h4>
 <a href="https://github.com/gabacode">
- <img height="200" src="https://github-readme-stats.vercel.app/api?username=gabacode&show_icons=true&hide_border=false&count_private=true&layout=compact" />
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabacode&show_icons=true&hide_border=false&count_private=true&layout=compact" />
 </a>
 <a href="https://github.com/gabacode">
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabacode&hide=html,css&layout=compact" alt="Gabriele Scalici's GitHub Stats" />
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabacode&hide=html,css&layout=compact" alt="Gabriele Scalici's GitHub Stats" />
 </a>
