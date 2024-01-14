@@ -12,13 +12,4 @@
     You can contact me via email at
     <a href="mailto:gaba@totel.it">gaba@totel.it</a>
   </h4>
-  <img
-    height="160"
-    src="https://github-readme-stats-gabacode.vercel.app/api?username=gabacode&show_icons=true&hide_border=false&count_private=true&layout=compact"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats-gabacode.vercel.app/api/top-langs?username=gabacode&hide=html,css&layout=compact"
-    alt="Gabriele Scalici's GitHub Stats"
-  />
 </div>
